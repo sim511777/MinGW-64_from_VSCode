@@ -10,7 +10,8 @@
                 "-o",
                 "helloworld",
                 "helloworld.cpp",
-                "lib.cpp"
+                "lib.cpp",
+                "-llibquadmath"
             ],
             "group": {
                 "kind": "build",
